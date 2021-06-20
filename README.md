@@ -1,3 +1,3 @@
 # React NetFlix clone
 
-projeto criado para estudo e diversão =)
+projeto criado há algum tempo para estudo e diversão :)
