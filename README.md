@@ -1,2 +1,3 @@
-# react-netflix
-React netflix clone
+# React NetFlix clone
+
+projeto criado para estudo e diversão =)
